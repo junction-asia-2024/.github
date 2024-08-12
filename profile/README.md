@@ -22,4 +22,4 @@
 ## Member
 | 임하늘 | 김세빈 | 우원 | 유건 | 유희진 |
 | ---| --- | --- | --- | --- |
-| 기획, Data, AI | 기획, Design | Frontend | Backend | DevOps |
+| 팀장, 기획, Data, AI | 기획, Design | Frontend | Backend | DevOps |
